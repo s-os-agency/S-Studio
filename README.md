@@ -27,7 +27,7 @@ social cards, logos, and posters — then publishes the result to Telegram or Li
 | Telegram Bot API | `api.telegram.org` | Draft preview and approval flow |
 | LinkedIn proxy | `localhost:3001/api/linkedin` | Posting, via a local proxy |
 
-API keys and tokens are entered in the UI at runtime and are not stored in the repository.
+API keys and tokens are entered in the UI when the agent runs and are not stored in the repository.
 
 ## Status
 
